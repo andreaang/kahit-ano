@@ -1,3 +1,5 @@
 notepad messenger:
 A: Hi!
 A left the messenger.
+J joined the messenger.
+*Buzz*
