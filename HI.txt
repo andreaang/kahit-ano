@@ -1,2 +1,3 @@
 notepad messenger:
 A: Hi!
+A left the messenger.
